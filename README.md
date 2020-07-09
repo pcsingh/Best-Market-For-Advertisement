@@ -1,4 +1,8 @@
 # Best-Market-For-Advertisement
-It's an analysis of FreeCodeCamp 2017 survey data set.
+So the story is like this, We're working for an e-learning company that offers courses on programming. Most of our courses are on web and mobile development, but we also cover other domains, like data science, game development, etc. We want to promote our product and we'd like to invest some money in advertisement.
 <br/>
-For more information go through the `.ipynb` file.
+<br/>
+So our goal in this project is to find out the best markets to advertise our product. For that we are going to use the FreeCodeCamp survey dataset.
+<br/>
+<br/>
+Take a look on the `.ipynb` file.
